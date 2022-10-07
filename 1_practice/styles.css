@@ -1,0 +1,14 @@
+h1, h2 {
+    background-color: black;
+    color: white;
+    margin: 20px;    
+}
+
+p {
+    font-weight: bold;
+    margin: 20px;
+}
+
+img {
+    margin: 20px;       
+}
